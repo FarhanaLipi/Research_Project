@@ -3,7 +3,7 @@
 This repository contains a collection of Python scripts developed to analyze and assess the quality of metadata related to Chemnitz datasets available on the GovData.de portal.
 The scripts utilize the CKAN API to download and process metadata, enabling comprehensive quality assessments across multiple metrics.
 
-## Table of Contents
+
 
 ## Project Structure
 
