@@ -14,7 +14,7 @@ The repository is organized into the following scripts, each designed to assess 
 - **accessibility.py**: Evaluates the accessibility of metadata, ensuring it meets required accessibility standards.
 - **completeness.py**: Measures the completeness of metadata records, verifying that they contain all necessary fields.
 - **conformance.py & conformance__1.py**: Assess the conformance of metadata to established standards, ensuring consistency and reliability.
-- **format.py**: Analyzes the format and structure of the metadata files, checking for compliance with expected formats.
+- **IANA_registration.py**: Analyzing if the mediaTypes of datasets are registered by IANA or not
 - **regional_dialects.py**: Assesses the presence of regional dialects or language variations within the metadata, which could impact the consistency and usability of the data.
 
 ## Installation
