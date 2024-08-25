@@ -1,0 +1,7 @@
+# List of differenet types of format/mediaTypes that has been used to check machine readability
+
+'csv', 'text/csv','text/csv+extended', 'application/csv', 'application/json','application/xml','html','text/html',
+        'text/xml', 'application/rdf+xml', 'application/ld+json', 'application/vnd.ms-excel',
+        'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.ogc.wms_xml',
+        'application/x-netcdf', 'application/x-hdf', 'application/x-hdf5',
+        'application/vnd.google-earth.kml+xml', 'application/vnd.geo+json','AGIS_GEODATA'
