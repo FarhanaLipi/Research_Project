@@ -19,7 +19,7 @@ The repository is organized into the following scripts, each designed to assess 
 
 ## Installation
 
-To run the scripts, ensure you have Python installed. Additionally, you may need the following libraries:
+To run the scripts, ensure having Python installed. Additionally, also following libraries are needed:
 
 ```bash
 pip install matplotlib rdflib
