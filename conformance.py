@@ -5,7 +5,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 from rdflib import BNode
 
-# Namespaces
+
 DCAT = Namespace("http://www.w3.org/ns/dcat#")
 DCT = Namespace("http://purl.org/dc/terms/")
 VCARD = Namespace("http://www.w3.org/2006/vcard/ns#")
